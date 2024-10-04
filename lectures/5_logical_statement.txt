@@ -1,0 +1,2 @@
+Logical Statement
+    มันคือ boolean operator (true\false)
