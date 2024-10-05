@@ -1,0 +1,23 @@
+Switch Statement
+    ใช้ในกรณีที่มีหลายเงื่อนไขที่จะต้องถูกตรวจสอบต่อกันมาเป็นทอด ๆ
+
+    if (condition) 
+    {
+
+    }
+    else if (condition)
+    {
+
+    }
+    else if (condition)
+    {
+
+    }
+    else if (condition)
+    {
+
+    }
+    else 
+    {
+
+    }
