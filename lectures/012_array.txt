@@ -1,0 +1,6 @@
+Array
+    เป็น collection of data หรือ ชุดของข้อมูลที่เป็นประเภทเดียวกัน
+
+    รูปแบบการประกาศ: data_type variable_name[capacity]
+
+    int grades[5] เป็นการจองตแหน่งบน memory ไว้ 5 ช่อง
