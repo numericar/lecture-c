@@ -1,0 +1,7 @@
+String Basic
+    String ในภาษา c เป็นกลุ่มของ char
+    โดยตัวอักษรตัวสุดท้ายใน String จะเป็น null ('\0') ซึ่งหมายถึงจุดสิ้นสุดของ string
+
+    เราสามารถ include library string.h ได้ โดยมันจะจมีฟังก์ชันที่ใช้ทำงานกับ string
+        - strlen(char[]) หาความยาวของ string
+        - strcpy(copy_to, copy_from) คักลอก string
