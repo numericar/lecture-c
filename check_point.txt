@@ -1,3 +1,0 @@
-link: https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif
-current_episode: 15
-next_episode: 16
