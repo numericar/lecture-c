@@ -53,3 +53,9 @@ Compiler
     5. run the program 
     6. test and debug the program 
     7. maintain and modify the program
+
+ภาษา C ถูกใช้ใน minicomputers, Unit/linux, mainframes
+โดยมักจะนำมาสร้างระบบที่ต้องการการประมวลผลที่ความเร็วสูง
+เข่น
+    - การสร้าง compiler
+    - การเขียนระบบสำหรับ embedded system
