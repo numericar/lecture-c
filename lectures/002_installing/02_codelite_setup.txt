@@ -1,0 +1,11 @@
+ทำตามขั้นตอนดังนี้
+    1. ที่แถบด้านบน เลือก Settings
+    2. เลือก build setting
+    3. กด +
+    4. เลือก path cygwin (C:\cygwin64\bin)
+    5. ที่เมนู C Compiler ให้เปลี่ยน path เป็น C:\cygwin64\bin\gcc.exe
+    6. ที่เมนู Assembler Name ให้เปลี่ยน path เป็น C:\cygwin64\bin\as.exe
+    7. ที่เมนู Linker ให้เปลี่ยน path เป็น C:\cygwin64\bin\gcc.exe
+    8. ที่เมนู Shared Object Linker ให้เปลี่ยน path เป็น C:\cygwin64\bin\gcc.exe -shared -fPIC
+    9. ที่เมนู Archive ให้เปลี่ยน path เป็น C:\cygwin64\bin\ar.exe rcu
+    10. ที่เมนู Gdb -> C:\cygwin64\bin\gdb.exe
