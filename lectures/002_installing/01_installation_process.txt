@@ -1,0 +1,15 @@
+Installation process
+    Windows
+        จะต้องติดตั้ง C Compiler (Cygwin)
+        IDE เช่น CodeLite
+
+Cygwin setup 
+    เราจะต้องติดตั้ง gcc compiler, make, gdb debugger จาก Cygwin
+    ในหน้า setup ที่ view เลือกเป็น full และทำการติดตั้งโดยการเลือก version
+        - gcc-core 
+        - gdb
+        - make 
+    หลังจากติดตั้งเสร็จแล้ว ให่ทำกสนเพิ่ม path environment C:\cygwin64\bin
+    และใช้คำสั่ง cygcheck -c cygwin เพื่อตรวจสอบว่าติดตั้งเรียบร้อยแล้วหรือยัง
+
+    gcc --version ตรวจสอบว่ามีการติดตั้ง c compiler แล้วหรือยัง
